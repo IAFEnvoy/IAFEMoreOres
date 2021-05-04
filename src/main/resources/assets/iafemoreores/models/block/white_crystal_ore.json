@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "iafemoreores:block/white_crystal_ore"
+  }
+}

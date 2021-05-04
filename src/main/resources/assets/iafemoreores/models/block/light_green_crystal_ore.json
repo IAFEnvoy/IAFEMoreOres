@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "iafemoreores:block/light_green_crystal_ore"
+  }
+}
