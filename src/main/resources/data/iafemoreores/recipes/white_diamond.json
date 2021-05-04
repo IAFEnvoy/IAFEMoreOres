@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:white_diamond_ore"
+  },
+  "result": "iafemoreores:white_diamond",
+  "experience": 1.0,
+  "cookingtime": 200
+}

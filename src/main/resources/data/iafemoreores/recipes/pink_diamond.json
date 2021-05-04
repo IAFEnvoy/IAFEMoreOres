@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:pink_diamond_ore"
+  },
+  "result": "iafemoreores:pink_diamond",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gold_ingot",
+  "ingredients": [
+    {
+      "item": "iafemoreores:light_blue_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "iafemoreores:light_blue_diamond",
+    "count": 9
+  }
+}

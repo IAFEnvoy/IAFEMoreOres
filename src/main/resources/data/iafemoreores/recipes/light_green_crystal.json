@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:light_green_crystal_ore"
+  },
+  "result": "iafemoreores:light_green_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}

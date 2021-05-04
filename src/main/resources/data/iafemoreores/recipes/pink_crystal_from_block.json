@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gold_ingot",
+  "ingredients": [
+    {
+      "item": "iafemoreores:pink_crystal_block"
+    }
+  ],
+  "result": {
+    "item": "iafemoreores:pink_crystal",
+    "count": 9
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:orange_crystal_ore"
+  },
+  "result": "iafemoreores:orange_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}

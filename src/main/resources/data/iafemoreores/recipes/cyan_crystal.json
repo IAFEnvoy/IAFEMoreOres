@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:cyan_crystal_ore"
+  },
+  "result": "iafemoreores:cyan_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:cyan_diamond_ore"
+  },
+  "result": "iafemoreores:cyan_diamond",
+  "experience": 1.0,
+  "cookingtime": 200
+}

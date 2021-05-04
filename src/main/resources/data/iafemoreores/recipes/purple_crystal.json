@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:purple_crystal_ore"
+  },
+  "result": "iafemoreores:purple_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}

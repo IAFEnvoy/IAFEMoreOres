@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "iafemoreores:green_diamond"
+    }
+  },
+  "result": {
+    "item": "iafemoreores:green_diamond_block"
+  }
+}

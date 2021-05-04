@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "iafemoreores:pink_diamond"
+    }
+  },
+  "result": {
+    "item": "iafemoreores:pink_diamond_block"
+  }
+}

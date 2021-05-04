@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "iafemoreores:red_crystal"
+    }
+  },
+  "result": {
+    "item": "iafemoreores:red_crystal_block"
+  }
+}

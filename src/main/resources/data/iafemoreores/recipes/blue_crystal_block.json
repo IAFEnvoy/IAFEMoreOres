@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "iafemoreores:blue_crystal"
+    }
+  },
+  "result": {
+    "item": "iafemoreores:blue_crystal_block"
+  }
+}

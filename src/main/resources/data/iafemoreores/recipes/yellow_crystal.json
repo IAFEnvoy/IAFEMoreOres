@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "iafemoreores:yellow_crystal_ore"
+  },
+  "result": "iafemoreores:yellow_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}
