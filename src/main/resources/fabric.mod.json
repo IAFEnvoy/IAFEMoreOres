@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "iafemoreores",
+  "version": "${version}",
+  "name": "IAFEMoreOres",
+  "description": "Add some ores and some mods depend on it.",
+  "authors": [
+    "iafenvoy"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/iafemoreores/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "IAFEMoreOres.IAFEMoreOres"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "iafemoreores.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*"
+  }
+}
